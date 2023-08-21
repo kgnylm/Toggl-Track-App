@@ -84,7 +84,7 @@ body,
   align-items: center;
   height: 100vh;
   background-color: #fef9f7;
-  margin: 0; /* Üst kenarlık sıfırlama */
+  margin: 0;
   padding: 0;
 }
 
@@ -119,8 +119,8 @@ input {
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-left: -2.5%;
-  background-color: rgba(168, 76, 148, 0.2); /* Arka plan rengi (saydam) */
-  color: #000000; /* Metin rengi */
+  background-color: rgba(168, 76, 148, 0.2);
+  color: #000000;
 }
 
 .login-button {
